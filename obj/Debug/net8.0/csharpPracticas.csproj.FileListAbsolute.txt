@@ -1,0 +1,14 @@
+C:\Users\gabit\OneDrive\Documentos\Proyectos Code\C#\C#001\csharpPracticas\bin\Debug\net8.0\csharpPracticas.exe
+C:\Users\gabit\OneDrive\Documentos\Proyectos Code\C#\C#001\csharpPracticas\bin\Debug\net8.0\csharpPracticas.deps.json
+C:\Users\gabit\OneDrive\Documentos\Proyectos Code\C#\C#001\csharpPracticas\bin\Debug\net8.0\csharpPracticas.runtimeconfig.json
+C:\Users\gabit\OneDrive\Documentos\Proyectos Code\C#\C#001\csharpPracticas\bin\Debug\net8.0\csharpPracticas.dll
+C:\Users\gabit\OneDrive\Documentos\Proyectos Code\C#\C#001\csharpPracticas\bin\Debug\net8.0\csharpPracticas.pdb
+C:\Users\gabit\OneDrive\Documentos\Proyectos Code\C#\C#001\csharpPracticas\obj\Debug\net8.0\csharpPracticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabit\OneDrive\Documentos\Proyectos Code\C#\C#001\csharpPracticas\obj\Debug\net8.0\csharpPracticas.AssemblyInfoInputs.cache
+C:\Users\gabit\OneDrive\Documentos\Proyectos Code\C#\C#001\csharpPracticas\obj\Debug\net8.0\csharpPracticas.AssemblyInfo.cs
+C:\Users\gabit\OneDrive\Documentos\Proyectos Code\C#\C#001\csharpPracticas\obj\Debug\net8.0\csharpPracticas.csproj.CoreCompileInputs.cache
+C:\Users\gabit\OneDrive\Documentos\Proyectos Code\C#\C#001\csharpPracticas\obj\Debug\net8.0\csharpPracticas.dll
+C:\Users\gabit\OneDrive\Documentos\Proyectos Code\C#\C#001\csharpPracticas\obj\Debug\net8.0\refint\csharpPracticas.dll
+C:\Users\gabit\OneDrive\Documentos\Proyectos Code\C#\C#001\csharpPracticas\obj\Debug\net8.0\csharpPracticas.pdb
+C:\Users\gabit\OneDrive\Documentos\Proyectos Code\C#\C#001\csharpPracticas\obj\Debug\net8.0\csharpPracticas.genruntimeconfig.cache
+C:\Users\gabit\OneDrive\Documentos\Proyectos Code\C#\C#001\csharpPracticas\obj\Debug\net8.0\ref\csharpPracticas.dll
